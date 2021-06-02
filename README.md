@@ -1,6 +1,6 @@
-# qrscanner
+# QRScanner
 
-A new Flutter project.
+A new and first Flutter based project.
 
 ## Getting Started
 
